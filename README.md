@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Student.
-Learning Java and Python
+I'm a student of university.\n
+Learning Java and Python.
